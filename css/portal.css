@@ -121,11 +121,6 @@ tr.sp_recent:nth-child(even) {
 .sp_recent_subject {
 	width: 52%;
 }
-.sp_recent_board,
-.sp_recent_starter,
-.sp_recent_replies {
-	text-align: center;
-}
 .sp_recent_board {
 	width: 12%;
 }
@@ -831,11 +826,9 @@ dl.sp_form img, #sp_add_articles_list_header img {
 
 .sp_recent_starter {
 	min-width: 7em;
-	text-align: center
 }
 .sp_recent_replies {
 	min-width: 3em;
-	text-align: center
 }
 
 /* Experimental media querys */
